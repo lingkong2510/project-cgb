@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cgb-web:war">
+    <output-path>$PROJECT_DIR$/cgb-web/target</output-path>
+    <root id="archive" name="cgb-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="cgb-web:war exploded" />
+    </root>
+  </artifact>
+</component>
